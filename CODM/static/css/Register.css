@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+form{
+    text-align:center;
+    padding: 200px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:white;
+}
+.reg{
+    
+    background-color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+    height:fit-content;
+    opacity: 0.6;
+    
+   
+}
